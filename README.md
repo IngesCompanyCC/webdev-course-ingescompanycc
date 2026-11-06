@@ -160,16 +160,7 @@ webdev-course-ingescompanycc/
 │   ├── leccion-03.md
 │   ├── leccion-04.md
 │   ├── leccion-05.md
-│   ├── leccion-06.md
-│   └── grabacion/                     # Guiones escena por escena
-│       ├── guia-de-grabacion.md
-│       ├── plantilla-guion.md
-│       ├── leccion-01.md
-│       ├── leccion-02.md
-│       ├── leccion-03.md
-│       ├── leccion-04.md
-│       ├── leccion-05.md
-│       └── leccion-06.md
+│   └── leccion-06.md
 ├── slides/                            # Láminas de los videos
 │   └── webdev-course.pptx
 ├── pandoc/                            # Exportación del plan de curso a PDF
@@ -241,8 +232,8 @@ El curso «Fundamentos de Desarrollo Web» fue diseñado y producido de manera c
 | Integrante | Lección a cargo | Aporte principal |
 |---|---|---|
 | Zavaleta Gutierrez, Rodolfo Martin | 1 | Líder del equipo; plan del curso en el `README.md` |
-| Angulo Ramírez, Marcelo Martín | 2 | Configuración de Pandoc para el PDF del plan de curso; plantilla de guion |
-| Cobades Zamora, Yhoshua Hebert | 3 | Imágenes de las lecciones y guía de grabación |
+| Angulo Ramírez, Marcelo Martín | 2 | Configuración de Pandoc para el PDF del plan de curso |
+| Cobades Zamora, Yhoshua Hebert | 3 | Imágenes de las lecciones |
 | Rojas Ambicho, Nestor Daniel | 4 y 6 | Guiones, código de las lecciones, láminas y estilos del PDF |
 | Yarleque Ruiz, Cristina Marcela | 5 | Proyecto de la página de perfil; configuración de `.gitignore` |
 
