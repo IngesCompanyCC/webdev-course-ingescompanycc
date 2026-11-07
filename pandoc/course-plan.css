@@ -1,0 +1,122 @@
+/* Print styles for the course plan, close to the GitHub Markdown preview. */
+
+@page {
+  size: A4;
+  margin: 2.2cm 2cm;
+  @top-right {
+    content: "Plan de curso - Fundamentos de Desarrollo Web";
+    font-size: 8pt;
+    color: #57606a;
+  }
+  @bottom-right {
+    content: counter(page);
+    font-size: 8pt;
+    color: #57606a;
+  }
+}
+
+html {
+  font-family: -apple-system, "Segoe UI", "Noto Sans", Helvetica, Arial, sans-serif;
+  font-size: 10pt;
+  line-height: 1.5;
+  color: #1f2328;
+}
+
+body {
+  margin: 0;
+}
+
+/* Pandoc's title block is only metadata for the PDF. */
+header#title-block-header {
+  display: none;
+}
+
+h1, h2 {
+  padding-bottom: 0.3em;
+  border-bottom: 1px solid #d1d9e0;
+}
+
+h1 { font-size: 1.9em; margin-top: 0; }
+h2 { font-size: 1.5em; }
+h3 { font-size: 1.2em; }
+
+h1, h2, h3, h4 {
+  margin: 1.4em 0 0.6em;
+  font-weight: 600;
+  line-height: 1.25;
+  break-after: avoid;
+}
+
+/* The lessons and the credits start on a new page; the other sections flow. */
+h2#secuencia-de-lecciones,
+h2[id^="elabor"] {
+  break-before: page;
+}
+
+/* Horizontal rules separate sections on GitHub; in the PDF the page breaks do that. */
+hr {
+  display: none;
+}
+
+p, ul, ol, table, pre {
+  margin: 0 0 0.9em;
+}
+
+p, li {
+  orphans: 3;
+  widows: 3;
+}
+
+a {
+  color: #0969da;
+  text-decoration: none;
+  overflow-wrap: anywhere;
+}
+
+code {
+  font-family: ui-monospace, "Cascadia Mono", Menlo, Consolas, monospace;
+  font-size: 0.88em;
+  padding: 0.1em 0.3em;
+  border-radius: 4px;
+  background: #eff1f3;
+}
+
+pre {
+  padding: 0.8em;
+  border-radius: 6px;
+  background: #f6f8fa;
+  white-space: pre-wrap;
+}
+
+pre code {
+  padding: 0;
+  background: none;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 0.9em;
+}
+
+th, td {
+  padding: 4px 8px;
+  border: 1px solid #d1d9e0;
+  vertical-align: top;
+  overflow-wrap: break-word;
+}
+
+th {
+  font-weight: 600;
+  background: #f6f8fa;
+}
+
+tr {
+  break-inside: avoid;
+}
+
+/* A lesson (heading, description and its table of links) stays on one page. */
+h3 + ul,
+ul + table {
+  break-before: avoid;
+}
