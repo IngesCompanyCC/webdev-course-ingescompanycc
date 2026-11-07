@@ -31,7 +31,7 @@ _(Contenido para los instructores)_
 > Ahora vamos a escribir. En JSFiddle no hace falta la parte de arriba, porque el editor ya la prepara por nosotros. Por eso, en el panel HTML escribimos solo lo que iría dentro del `body`.
 >
 > **(3:50 - 4:40) El título principal**  
-> Empecemos con un título. Escribo menor que, h1, mayor que; el texto; y cierro con menor que, barra, h1, mayor que. Pulso Run y mira el resultado: apareció mi título, grande y en negrita. Usa un apodo o un nombre inventado, no tu apellido ni datos privados.
+> Empecemos con un título. Escribo menor que, h1, mayor que; el texto; y cierro con menor que, barra, h1, mayor que. Pulso Ejecutar y mira el resultado: apareció mi título, grande y en negrita. Usa un apodo o un nombre inventado, no tu apellido ni datos privados.
 >
 > **(4:40 - 5:40) Párrafos**  
 > Ahora un párrafo, con la etiqueta p. Una pista importante: si presionas Enter dentro del párrafo, la página no cambia de línea. HTML ignora esos saltos. Para separar el texto se usa un párrafo nuevo, con su propia etiqueta de apertura y de cierre.
