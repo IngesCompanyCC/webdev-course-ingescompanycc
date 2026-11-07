@@ -189,7 +189,7 @@ No hay nada que instalar: solo necesitas un navegador web y conexión a internet
 1. **Mira el video** de la lección en YouTube.
 2. **Abre la práctica en línea**: el enlace de cada lección abre JSFiddle con el código inicial ya precargado. No necesitas registrarte.
 3. **Escribe en los paneles HTML y CSS**: en el panel HTML va solo lo que está dentro de `<body>`, porque JSFiddle prepara el resto del documento. El panel de JavaScript no se usa en este curso.
-4. **Ejecuta con Run** (o `Ctrl + Enter`) y mira el resultado en el panel *Result*.
+4. **Pulsa Ejecutar**, el botón naranja de la barra de arriba (o `Ctrl + Enter`), y mira el resultado en el panel *Resultado*, abajo a la derecha. Si tu navegador está en inglés, el botón dice *Run* y el panel, *Result*.
 5. **Haz la práctica** de la pausa de cada lección y compara tu código con el código terminado.
 
 ### Para generar el PDF del plan de curso
