@@ -20,7 +20,7 @@ _(Contenido para los instructores)_
 
 ## 2. Guion del video (9 minutos)
 
-> Los tiempos son los del audio (unos 8:18). Con las tarjetas de pausa, los Ejecutar y las transiciones de la edición, el video llega a unos 9 minutos. El guion detallado para grabar está en `grabacion/leccion-06.md` (solo para el equipo).
+> Los tiempos son los del audio (unos 8:01). Con las tarjetas de pausa, los Ejecutar y las transiciones de la edición, el video llega a unos 9 minutos. El guion detallado para grabar está en `grabacion/leccion-06.md` (solo para el equipo).
 
 > **(0:00 - 0:35) Introducción**  
 > ¡Hola! Te doy la bienvenida a la última lección del curso. Ya sabes crear una página. Hoy vas a aprender algo que hace cualquier persona que programa, incluso con años de experiencia: encontrar y corregir errores. Equivocarse es normal: hasta los videojuegos más famosos salen con errores, que luego se arreglan con actualizaciones. Lo importante es saber cómo buscarlos. ¡Hoy te conviertes en detective de código!
@@ -49,16 +49,16 @@ _(Contenido para los instructores)_
 > **(4:46 - 5:28) Una imagen sin alt**  
 > Y el último error no se ve a simple vista: la imagen de la mascota no tiene texto alternativo. Por eso es bueno revisar el código, además de mirar la pantalla. Agrego alt con la descripción: Dibujo de Miso, un gato naranja. Ejecutar: la página se ve igual, pero ahora está corregida. Como ya encontré los cinco errores, borro el comentario del reto.
 >
-> **(5:28 - 6:35) El validador**  
-> Hay una herramienta que te ayuda a encontrar errores: un validador. Es una página gratuita donde pegas tu código y te avisa lo que está mal, con el número de línea. Pego la página con errores y pulso Check. Aquí encontró la etiqueta sin cerrar y la imagen sin texto alternativo. Úsalo cuando tu página no se vea como esperas. Para el CSS hay otro validador, también gratuito, que se usa igual: pegas tu CSS y pulsas Check. Te dejo los enlaces de los dos en la descripción del video. Eso sí: ningún validador encuentra todo. Por ejemplo, la clase sin punto no la marca, porque perfil podría ser el nombre de una etiqueta. Por eso, revisa también con tus propios ojos.
+> **(5:28 - 6:18) El validador**  
+> Hay una herramienta que te ayuda a encontrar errores: un validador. Es una página gratuita donde pegas tu código y te avisa lo que está mal, con el número de línea. Pego la página con errores y pulso Check. Aquí encontró la etiqueta sin cerrar y la imagen sin texto alternativo. Úsalo cuando tu página no se vea como esperas. También hay un validador de CSS, pero ningún validador encuentra todo; por ejemplo, la clase sin punto no la marca. Por eso, revisa también con tus propios ojos.
 >
-> **(6:35 - 7:15) Buenas prácticas**  
+> **(6:18 - 6:58) Buenas prácticas**  
 > Para cometer menos errores, sigue cuatro buenas prácticas. Primero, aplica sangría: cada elemento que va dentro de otro se escribe un poco más adentro, así ves dónde abre y dónde cierra. Segundo, usa nombres de clase que digan para qué sirven, como destacado. Tercero, revisa el resultado después de cada cambio, y no solo al final. Y cuarto, pasa tu código por el validador antes de compartir tu página.
 >
-> **(7:15 - 7:55) ¿Y ahora qué?**  
+> **(6:58 - 7:38) ¿Y ahora qué?**  
 > ¿Y ahora qué? Primero, explora la documentación web de MDN: es gratuita, está en español y es una de las mejores fuentes. Segundo, haz otra página sobre algo que te guste: tu club, tu banda favorita o una receta. Tercero, cuando tengas varias páginas, únelas con enlaces: así tendrás tu propio sitio web. Y cuarto, practica un poco cada día: es mejor veinte minutos diarios que cuatro horas de golpe.
 >
-> **(7:55 - 8:18) Cierre**  
+> **(7:38 - 8:01) Cierre**  
 > ¡Lo lograste! Terminaste el curso. Al empezar no sabías cómo se hace una página web, y ahora has creado la tuya. Comparte lo que hiciste con tu familia y tus amistades. Gracias por acompañarnos. ¡Sigue creando!
 
 ## 3. Sugerencias multimedia
@@ -72,10 +72,10 @@ _(Contenido para los instructores)_
 - **Una propiedad mal escrita (3:39), Editor (JSFiddle), sin lámina:** El fondo no es azul. Se revisa el `body`, se corrige `backgroud-color` por `background-color` y se pulsa Ejecutar. Texto en pantalla: «Error 4: `backgroud` ≠ `background`». Anotación: subrayar el lugar donde falta la n.
 - **Un punto y coma olvidado (4:15), Editor (JSFiddle), sin lámina:** Los subtítulos no son verdes. Se revisa la regla de `h2`, se agrega el `;` al final de `color: #0f766e` y se pulsa Ejecutar. Texto en pantalla: «Error 5: falta el `;`».
 - **Una imagen sin alt (4:46), Editor (JSFiddle), sin lámina:** Se revisa la imagen de la mascota. Se agrega `alt="Dibujo de Miso, un gato naranja"` y se pulsa Ejecutar: no se ve ningún cambio. Al final se borra el comentario del reto («Esta página tiene 5 errores…»). Texto en pantalla: «Error 2: falta `alt`».
-- **El validador (5:28), navegador con el validador, sin lámina:** Se abre el validador del W3C. Se pega el documento completo con errores, se pulsa «Check» y se muestran los avisos de la etiqueta sin cerrar y de la imagen sin `alt`. Texto en pantalla, en una franja abajo y antes de que aparezcan los avisos: «Un validador revisa tu código por ti». Anotación: recuadros naranjas sobre el aviso del `h2` sin cerrar y el del `alt`, con su número de línea. Al nombrar el validador de CSS, se muestra unos segundos su página (`jigsaw.w3.org/css-validator`), con el texto en pantalla «Validador de CSS: jigsaw.w3.org/css-validator».
-- **Buenas prácticas (6:35), Lámina 36:** Lámina con cuatro buenas prácticas, cada una con su ícono. Sin texto añadido en pantalla.
-- **¿Y ahora qué? (7:15), Lámina 37:** Lámina de próximos pasos con cuatro ideas. Sin texto añadido en pantalla.
-- **Cierre (7:55), Lámina 38:** Lámina final con un mensaje de cierre. Sin texto añadido en pantalla.
+- **El validador (5:28), navegador con el validador, sin lámina:** Se abre el validador del W3C. Se pega el documento completo con errores, se pulsa «Check» y se muestran los avisos de la etiqueta sin cerrar y de la imagen sin `alt`. Texto en pantalla, en una franja abajo y antes de que aparezcan los avisos: «Un validador revisa tu código por ti». Anotación: recuadros naranjas sobre el aviso del `h2` sin cerrar y el del `alt`, con su número de línea.
+- **Buenas prácticas (6:18), Lámina 36:** Lámina con cuatro buenas prácticas, cada una con su ícono. Sin texto añadido en pantalla.
+- **¿Y ahora qué? (6:58), Lámina 37:** Lámina de próximos pasos con cuatro ideas. Sin texto añadido en pantalla.
+- **Cierre (7:38), Lámina 38:** Lámina final con un mensaje de cierre. Sin texto añadido en pantalla.
 
 ## 4. Pregunta para pensar
 
