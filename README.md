@@ -28,7 +28,7 @@ Este curso de **1 hora** introduce a estudiantes de secundaria a la creación de
 
 | Recurso | Enlace |
 |---|---|
-| **Video en YouTube** | _(enlace pendiente)_ |
+| **Video en YouTube** | _https://youtu.be/xIULrxxXpjs_ |
 | **Práctica en línea** | _(enlace pendiente)_ |
 | **Código inicial** | [starter-files/leccion-01/index.html](https://github.com/IngesCompanyCC/webdev-course-ingescompanycc/blob/main/starter-files/leccion-01/index.html) |
 | **Código terminado** | [completed-examples/leccion-01/index.html](https://github.com/IngesCompanyCC/webdev-course-ingescompanycc/blob/main/completed-examples/leccion-01/index.html) |
@@ -43,7 +43,7 @@ Este curso de **1 hora** introduce a estudiantes de secundaria a la creación de
 
 | Recurso | Enlace |
 |---|---|
-| **Video en YouTube** | _(enlace pendiente)_ |
+| **Video en YouTube** | _https://youtu.be/PGVlGLqcNt8_ |
 | **Práctica en línea** | _(enlace pendiente)_ |
 | **Código inicial** | [starter-files/leccion-02/index.html](https://github.com/IngesCompanyCC/webdev-course-ingescompanycc/blob/main/starter-files/leccion-02/index.html) |
 | **Código terminado** | [completed-examples/leccion-02/index.html](https://github.com/IngesCompanyCC/webdev-course-ingescompanycc/blob/main/completed-examples/leccion-02/index.html) |
@@ -58,7 +58,7 @@ Este curso de **1 hora** introduce a estudiantes de secundaria a la creación de
 
 | Recurso | Enlace |
 |---|---|
-| **Video en YouTube** | _(enlace pendiente)_ |
+| **Video en YouTube** | _https://youtu.be/ycsFO2hTSac_ |
 | **Práctica en línea** | _(enlace pendiente)_ |
 | **Código inicial** | [starter-files/leccion-03/index.html](https://github.com/IngesCompanyCC/webdev-course-ingescompanycc/blob/main/starter-files/leccion-03/index.html) |
 | **Código terminado** | [completed-examples/leccion-03/index.html](https://github.com/IngesCompanyCC/webdev-course-ingescompanycc/blob/main/completed-examples/leccion-03/index.html) |
@@ -73,7 +73,7 @@ Este curso de **1 hora** introduce a estudiantes de secundaria a la creación de
 
 | Recurso | Enlace |
 |---|---|
-| **Video en YouTube** | _(enlace pendiente)_ |
+| **Video en YouTube** | _https://youtu.be/_Jy-TtT_AkM_ |
 | **Práctica en línea** | _(enlace pendiente)_ |
 | **Código inicial** | [starter-files/leccion-04/index.html](https://github.com/IngesCompanyCC/webdev-course-ingescompanycc/blob/main/starter-files/leccion-04/index.html) |
 | **Código terminado** | [completed-examples/leccion-04/index.html](https://github.com/IngesCompanyCC/webdev-course-ingescompanycc/blob/main/completed-examples/leccion-04/index.html) |
@@ -88,7 +88,7 @@ Este curso de **1 hora** introduce a estudiantes de secundaria a la creación de
 
 | Recurso | Enlace |
 |---|---|
-| **Video en YouTube** | _(enlace pendiente)_ |
+| **Video en YouTube** | _https://youtu.be/14pV6O2P7iE_ |
 | **Práctica en línea** | _(enlace pendiente)_ |
 | **Código inicial** | [starter-files/leccion-05/index.html](https://github.com/IngesCompanyCC/webdev-course-ingescompanycc/blob/main/starter-files/leccion-05/index.html) |
 | **Código terminado** | [completed-examples/leccion-05/index.html](https://github.com/IngesCompanyCC/webdev-course-ingescompanycc/blob/main/completed-examples/leccion-05/index.html) |
@@ -103,7 +103,7 @@ Este curso de **1 hora** introduce a estudiantes de secundaria a la creación de
 
 | Recurso | Enlace |
 |---|---|
-| **Video en YouTube** | _(enlace pendiente)_ |
+| **Video en YouTube** | _https://youtu.be/Mp73k_K7vD0_ |
 | **Práctica en línea** | _(enlace pendiente)_ |
 | **Código inicial** | [starter-files/leccion-06/index.html](https://github.com/IngesCompanyCC/webdev-course-ingescompanycc/blob/main/starter-files/leccion-06/index.html) |
 | **Código terminado** | [completed-examples/leccion-06/index.html](https://github.com/IngesCompanyCC/webdev-course-ingescompanycc/blob/main/completed-examples/leccion-06/index.html) |
