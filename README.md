@@ -29,7 +29,7 @@ Este curso de **1 hora** introduce a estudiantes de secundaria a la creación de
 | Recurso | Enlace |
 |---|---|
 | **Video en YouTube** | _https://youtu.be/xIULrxxXpjs_ |
-| **Práctica en línea** | _(enlace pendiente)_ |
+| **Práctica en línea** | _https://jsfiddle.net/_ |
 | **Código inicial** | [starter-files/leccion-01/index.html](https://github.com/IngesCompanyCC/webdev-course-ingescompanycc/blob/main/starter-files/leccion-01/index.html) |
 | **Código terminado** | [completed-examples/leccion-01/index.html](https://github.com/IngesCompanyCC/webdev-course-ingescompanycc/blob/main/completed-examples/leccion-01/index.html) |
 | **Guion** | [scripts/leccion-01.md](https://github.com/IngesCompanyCC/webdev-course-ingescompanycc/blob/main/scripts/leccion-01.md) |
@@ -44,7 +44,7 @@ Este curso de **1 hora** introduce a estudiantes de secundaria a la creación de
 | Recurso | Enlace |
 |---|---|
 | **Video en YouTube** | _https://youtu.be/PGVlGLqcNt8_ |
-| **Práctica en línea** | _(enlace pendiente)_ |
+| **Práctica en línea** | _https://jsfiddle.net/_ |
 | **Código inicial** | [starter-files/leccion-02/index.html](https://github.com/IngesCompanyCC/webdev-course-ingescompanycc/blob/main/starter-files/leccion-02/index.html) |
 | **Código terminado** | [completed-examples/leccion-02/index.html](https://github.com/IngesCompanyCC/webdev-course-ingescompanycc/blob/main/completed-examples/leccion-02/index.html) |
 | **Guion** | [scripts/leccion-02.md](https://github.com/IngesCompanyCC/webdev-course-ingescompanycc/blob/main/scripts/leccion-02.md) |
@@ -59,7 +59,7 @@ Este curso de **1 hora** introduce a estudiantes de secundaria a la creación de
 | Recurso | Enlace |
 |---|---|
 | **Video en YouTube** | _https://youtu.be/ycsFO2hTSac_ |
-| **Práctica en línea** | _(enlace pendiente)_ |
+| **Práctica en línea** | _https://jsfiddle.net/_ |
 | **Código inicial** | [starter-files/leccion-03/index.html](https://github.com/IngesCompanyCC/webdev-course-ingescompanycc/blob/main/starter-files/leccion-03/index.html) |
 | **Código terminado** | [completed-examples/leccion-03/index.html](https://github.com/IngesCompanyCC/webdev-course-ingescompanycc/blob/main/completed-examples/leccion-03/index.html) |
 | **Guion** | [scripts/leccion-03.md](https://github.com/IngesCompanyCC/webdev-course-ingescompanycc/blob/main/scripts/leccion-03.md) |
@@ -74,7 +74,7 @@ Este curso de **1 hora** introduce a estudiantes de secundaria a la creación de
 | Recurso | Enlace |
 |---|---|
 | **Video en YouTube** | _https://youtu.be/_Jy-TtT_AkM_ |
-| **Práctica en línea** | _(enlace pendiente)_ |
+| **Práctica en línea** | _https://jsfiddle.net/_ |
 | **Código inicial** | [starter-files/leccion-04/index.html](https://github.com/IngesCompanyCC/webdev-course-ingescompanycc/blob/main/starter-files/leccion-04/index.html) |
 | **Código terminado** | [completed-examples/leccion-04/index.html](https://github.com/IngesCompanyCC/webdev-course-ingescompanycc/blob/main/completed-examples/leccion-04/index.html) |
 | **Guion** | [scripts/leccion-04.md](https://github.com/IngesCompanyCC/webdev-course-ingescompanycc/blob/main/scripts/leccion-04.md) |
@@ -89,7 +89,7 @@ Este curso de **1 hora** introduce a estudiantes de secundaria a la creación de
 | Recurso | Enlace |
 |---|---|
 | **Video en YouTube** | _https://youtu.be/14pV6O2P7iE_ |
-| **Práctica en línea** | _(enlace pendiente)_ |
+| **Práctica en línea** | _https://jsfiddle.net/_ |
 | **Código inicial** | [starter-files/leccion-05/index.html](https://github.com/IngesCompanyCC/webdev-course-ingescompanycc/blob/main/starter-files/leccion-05/index.html) |
 | **Código terminado** | [completed-examples/leccion-05/index.html](https://github.com/IngesCompanyCC/webdev-course-ingescompanycc/blob/main/completed-examples/leccion-05/index.html) |
 | **Guion** | [scripts/leccion-05.md](https://github.com/IngesCompanyCC/webdev-course-ingescompanycc/blob/main/scripts/leccion-05.md) |
@@ -104,7 +104,7 @@ Este curso de **1 hora** introduce a estudiantes de secundaria a la creación de
 | Recurso | Enlace |
 |---|---|
 | **Video en YouTube** | _https://youtu.be/Mp73k_K7vD0_ |
-| **Práctica en línea** | _(enlace pendiente)_ |
+| **Práctica en línea** | _https://jsfiddle.net/_ |
 | **Código inicial** | [starter-files/leccion-06/index.html](https://github.com/IngesCompanyCC/webdev-course-ingescompanycc/blob/main/starter-files/leccion-06/index.html) |
 | **Código terminado** | [completed-examples/leccion-06/index.html](https://github.com/IngesCompanyCC/webdev-course-ingescompanycc/blob/main/completed-examples/leccion-06/index.html) |
 | **Guion** | [scripts/leccion-06.md](https://github.com/IngesCompanyCC/webdev-course-ingescompanycc/blob/main/scripts/leccion-06.md) |
