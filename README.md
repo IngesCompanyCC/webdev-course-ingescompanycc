@@ -28,7 +28,7 @@ Este curso de **1 hora** introduce a estudiantes de secundaria a la creación de
 
 | Recurso | Enlace |
 |---|---|
-| **Video en YouTube** | _https://youtu.be/xIULrxxXpjs_ |
+| **Video en YouTube** | _https://youtu.be/Sz8fxH0jLS0_ |
 | **Práctica en línea** | _[https://jsfiddle.net/](https://jsfiddle.net/wpuxcybz/1/)_ |
 | **Código inicial** | [starter-files/leccion-01/index.html](https://github.com/IngesCompanyCC/webdev-course-ingescompanycc/blob/main/starter-files/leccion-01/index.html) |
 | **Código terminado** | [completed-examples/leccion-01/index.html](https://github.com/IngesCompanyCC/webdev-course-ingescompanycc/blob/main/completed-examples/leccion-01/index.html) |
