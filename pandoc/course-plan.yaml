@@ -1,0 +1,20 @@
+# Pandoc defaults file for the course plan.
+# Usage (from the repository root): pandoc --defaults=pandoc/course-plan.yaml
+
+# GitHub-flavored Markdown, so the PDF matches the preview on GitHub.
+from: gfm
+to: html5
+standalone: true
+embed-resources: true
+pdf-engine: weasyprint
+css:
+  - pandoc/course-plan.css
+
+input-files:
+  - README.md
+
+output-file: build/upc-pre-202620-1asi0730-8130-IngesCompanyCC-course-plan.pdf
+
+metadata:
+  title: Plan de curso - Fundamentos de Desarrollo Web
+  lang: es-PE
