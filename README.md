@@ -229,13 +229,13 @@ El curso «Fundamentos de Desarrollo Web» fue diseñado y producido de manera c
 
 ### Distribución de responsabilidades
 
-| Integrante | Lección a cargo | Aporte principal |
+| Integrante | Grabación | Aporte principal |
 |---|---|---|
-| Zavaleta Gutierrez, Rodolfo Martin | 1 | Líder del equipo; plan del curso en el `README.md` |
-| Angulo Ramírez, Marcelo Martín | 2 | Configuración de Pandoc para el PDF del plan de curso |
-| Cobades Zamora, Yhoshua Hebert | 3 | Imágenes de las lecciones |
-| Rojas Ambicho, Nestor Daniel | 4 y 6 | Guiones, código de las lecciones, láminas y estilos del PDF |
-| Yarleque Ruiz, Cristina Marcela | 5 | Proyecto de la página de perfil; configuración de `.gitignore` |
+| Zavaleta Gutierrez, Rodolfo Martin | — | Líder del equipo; redacción de los guiones; edición de los videos; plan del curso en el `README.md` |
+| Angulo Ramírez, Marcelo Martín | Lecciones 1, 2 y 3 | Redacción de los guiones; publicación de los videos en YouTube; configuración de Pandoc para el PDF del plan de curso |
+| Cobades Zamora, Yhoshua Hebert | — | Redacción de los guiones; mejoras de audio de los videos; imágenes de las lecciones |
+| Rojas Ambicho, Nestor Daniel | Lecciones 4 y 6 | Redacción de los guiones; láminas (PPT); código de las lecciones y estilos del PDF |
+| Yarleque Ruiz, Cristina Marcela | Lección 5 | Redacción de los guiones; proyecto de la página de perfil; configuración de `.gitignore` |
 
 ### Proceso de trabajo
 
